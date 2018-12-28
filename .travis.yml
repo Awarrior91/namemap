@@ -3,7 +3,7 @@ language: go
 go:
   - tip
 
-go_import_path: git.fractalqb.de/fractalqb/namemap
+go_import_path: github.com/fractalqb/namemap
 
 before_install:
   - go get -t -v ./...

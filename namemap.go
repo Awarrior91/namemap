@@ -7,9 +7,9 @@ import (
 	"io"
 	"os"
 
-	"git.fractalqb.de/fractalqb/xsx"
-	"git.fractalqb.de/fractalqb/xsx/gem"
-	"git.fractalqb.de/fractalqb/xsx/table"
+	"github.com/Awarrior91/xsx"
+	"github.com/Awarrior91/xsx/gem"
+	"github.com/Awarrior91/xsx/table"
 )
 
 type terms = []string
